@@ -1,8 +1,14 @@
 # 🇲🇿 Mozambique IPTV
 
-![Mozambique IPTV](assets/banner.png)
+![Banner](assets/banner.png)
 
-## Professional IPTV Playlist for Mozambique
+![Status](https://img.shields.io/badge/Status-Online-success)
+![Channels](https://img.shields.io/badge/Channels-14-blue)
+![License](https://img.shields.io/badge/License-Public-green)
+![M3U](https://img.shields.io/badge/M3U-Compatible-orange)
+![EPG](https://img.shields.io/badge/EPG-XMLTV-red)
+
+Professional IPTV Playlist for Mozambique.
 
 Official public IPTV playlist of Mozambique.
 
