@@ -12,16 +12,6 @@ Professional IPTV Playlist for Mozambique.
 
 Official public IPTV playlist of Mozambique.
 
-🇲🇿 Mozambique IPTV
-
-[Banner]
-
-Status ...
-
-Professional IPTV Playlist for Mozambique.
-
-Official public IPTV playlist of Mozambique.
-
 --------------------------------------------------
 
 ## 📥 Download
