@@ -1,1 +1,14 @@
+#EXTM3U x-tvg-url="https://rodassane.github.io/Mozambique-IPTV/epg/mozambique.xml"
 
+#########################################################
+#                FAVORITOS
+#########################################################
+
+#EXTINF:-1 tvg-id="TVM" tvg-name="TVM" tvg-logo="https://rodassane.github.io/Mozambique-IPTV/logos/tvm.png" group-title="⭐ Favoritos",TVM
+https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMINT" tvg-name="TVM Internacional" tvg-logo="https://rodassane.github.io/Mozambique-IPTV/logos/tvminternacional.png" group-title="⭐ Favoritos",TVM Internacional
+https://stream.tvm.co.mz/hls/tvmi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rodassane.github.io/Mozambique-IPTV/logos/rm.png" group-title="⭐ Favoritos",Antena Nacional
+https://node.stream-africa.com:8443/AntenaNacional
