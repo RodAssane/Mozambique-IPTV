@@ -12,25 +12,41 @@ Professional IPTV Playlist for Mozambique.
 
 Official public IPTV playlist of Mozambique.
 
-### 📺 Channels
+🇲🇿 Mozambique IPTV
 
-- TVM
-- TVM Internacional
-- Miramar
+[Banner]
 
-### 📻 Rádio Moçambique
+Status ...
 
-- Antena Nacional
-- RM Desporto
-- Rádio Cidade Maputo
-- Rádio Cidade Beira
-- Rádio Maputo Corredor
-- Maputo FM
-- EP Gaza
-- Inhambane FM
-- Manica FM
-- EP Sofala
-- Tete FM
+Professional IPTV Playlist for Mozambique.
+
+Official public IPTV playlist of Mozambique.
+
+--------------------------------------------------
+
+## 📥 Download
+
+...
+
+## 📺 Available Playlists
+
+...
+
+## 📡 Compatibility
+
+...
+
+## 📺 TV Channels
+
+...
+
+## 📻 Radio Stations
+
+...
+
+## 🖼 Official Logos
+
+...
 
 ## Playlist
 
