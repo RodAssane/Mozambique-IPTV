@@ -84,17 +84,19 @@ Compatible with:
 
 <img src="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" width="120"><br>
 
+<td align="center" width="33%">
+
+<img src="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" width="120"><br>
+
 ### Miramar
 
 📺 Television Channel
 
-▶️ <a href="https://video.redeuniversal.org/RecordTVAfrica/index.m3u8">Watch Live</a>
+▶️ <a href="https://cdn.mycloudstream.io/hls/live/broadcast/8xdonf9w/360p.m3u8">Watch Live</a>
 
 📄 <a href="https://raw.githubusercontent.com/RodAssane/Mozambique-IPTV/main/playlist/tv.m3u">TV Playlist</a>
 
 </td>
-</tr>
-</table>
 
 ## 📻 Radio Stations
 
