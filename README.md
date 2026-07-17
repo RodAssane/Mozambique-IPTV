@@ -84,18 +84,6 @@ Compatible with:
 
 <img src="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" width="120"><br>
 
-### Miramar
-
-📺 Television Channel
-
-▶️ <a href="https://cdn.mycloudstream.io/hls/live/broadcast/8xdonf9w/360p.m3u8">Watch Live</a>
-
-📄 <a href="https://raw.githubusercontent.com/RodAssane/Mozambique-IPTV/main/playlist/tv.m3u">TV Playlist</a>
-
-</td>
-</tr>
-</table>
-
 ## 📻 Rádio Moçambique
 
 <table>
@@ -181,7 +169,7 @@ Compatible with:
 
 | TVM | TVM Internacional | Miramar | Rádio Moçambique |
 |:---:|:-----------------:|:--------:|:----------------:|
-| <img src="https://rodassane.github.io/Mozambique-IPTV/logos/tvm.png" width="90"> | <img src="https://rodassane.github.io/Mozambique-IPTV/logos/tvminternacional.png" width="90"> | <img src="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" width="90"> | <img src="https://rodassane.github.io/Mozambique-IPTV/logos/rm.png" width="90"> |
+| <img src="https://rodassane.github.io/Mozambique-IPTV/logos/tvm.png" width="90"> | <img src="https://rodassane.github.io/Mozambique-IPTV/logos/tvminternacional.png" width="90"> | <img src="https://rodassane.github.io/Mozambique-IPTV/logos/rm.png" width="90"> |
 
 </div>
 
