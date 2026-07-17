@@ -84,8 +84,6 @@ Compatible with:
 
 <img src="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" width="120"><br>
 
-<td align="center" width="33%">
-
 <img src="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" width="120"><br>
 
 ### Miramar
@@ -97,8 +95,8 @@ Compatible with:
 📄 <a href="https://raw.githubusercontent.com/RodAssane/Mozambique-IPTV/main/playlist/tv.m3u">TV Playlist</a>
 
 </td>
-
-## 📻 Radio Stations
+</tr>
+</table>
 
 ## 📻 Rádio Moçambique
 
