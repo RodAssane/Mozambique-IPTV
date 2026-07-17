@@ -84,8 +84,6 @@ Compatible with:
 
 <img src="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" width="120"><br>
 
-<img src="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" width="120"><br>
-
 ### Miramar
 
 📺 Television Channel
@@ -109,15 +107,6 @@ Compatible with:
 ## Rádio Moçambique
 
 # 📻 Rádio Moçambique
-
-<table>
-<tr>
-
-<td width="32%" align="center">
-
-<img src="https://rodassane.github.io/Mozambique-IPTV/logos/rm.png" width="180">
-
-## Rádio Moçambique
 
 **A Voz do Povo Moçambicano**
 
