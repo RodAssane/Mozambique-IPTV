@@ -7,4 +7,4 @@ https://stream.tvm.co.mz/hls/tvm/playlist.m3u8
 https://stream.tvm.co.mz/hls/tvmi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Miramar" tvg-name="Miramar" tvg-logo="https://rodassane.github.io/Mozambique-IPTV/logos/miramar.png" group-title="📺 TV",Miramar
-https://video.redeuniversal.org/RecordTVAfrica/index.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/8xdonf9w/360p.m3u8
