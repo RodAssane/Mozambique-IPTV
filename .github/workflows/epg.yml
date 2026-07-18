@@ -1,38 +1,38 @@
 name: Atualizar EPG
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
+  schedule:
+    - cron: "5 0 * * *"
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     steps:
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: |
+      - name: Instalar dependências
+        run: |
           pip install -r scripts/requirements.txt
           playwright install chromium
 
-      - run: python scripts/build_epg.py
-
-      - name: Commit XML
+      - name: Gerar XMLTV
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          python scripts/build_epg.py
 
-          git add epg/mozambique.xml
+      - name: Comprimir XML
+        run: |
+          gzip -kf epg/mozambique.xml
 
-          git diff --cached --quiet || (
-            git commit -m "Actualizar EPG"
-            git push
-          )
+      - name: Commit automático
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Atualização automática do EPG
