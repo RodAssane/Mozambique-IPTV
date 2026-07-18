@@ -360,4 +360,463 @@
     <programme start="20260718230000 +0200" stop="2026071823590000 +0200" channel="TVM">
         <title lang="pt">Zambézia de Lés a Lés</title>
     </programme>
+    <channel id="TVMINT">
+        <display-name>TVM Internacional</display-name>
+    </channel>
+    <programme start="20260718003000 +0200" stop="20260718030000 +0200" channel="TVMINT">
+        <title lang="pt">Análise Global ( Repetição)</title>
+    </programme>
+    <programme start="20260718030000 +0200" stop="20260718050000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal (Repetição)</title>
+    </programme>
+    <programme start="20260718050000 +0200" stop="20260718060000 +0200" channel="TVMINT">
+        <title lang="pt">Antena do Soldado ( Repetição)</title>
+    </programme>
+    <programme start="20260718060000 +0200" stop="20260718085000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718085000 +0200" stop="20260718090000 +0200" channel="TVMINT">
+        <title lang="pt">Rinu e Amigos - Regresso à Escola Com Rinu e Amigos</title>
+    </programme>
+    <programme start="20260718090000 +0200" stop="20260718093000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718093000 +0200" stop="20260718100000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Quelimane:  &quot;Ogumana&quot;</title>
+    </programme>
+    <programme start="20260718100000 +0200" stop="20260718110000 +0200" channel="TVMINT">
+        <title lang="pt">Análise Global ( Repetição)</title>
+    </programme>
+    <programme start="20260718110000 +0200" stop="20260718130000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração</title>
+    </programme>
+    <programme start="20260718130000 +0200" stop="20260718140000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal da Tarde</title>
+    </programme>
+    <programme start="20260718140000 +0200" stop="20260718150000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP: Inhambane em Diálogo</title>
+    </programme>
+    <programme start="20260718150000 +0200" stop="20260718170000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde</title>
+    </programme>
+    <programme start="20260718170000 +0200" stop="20260718173000 +0200" channel="TVMINT">
+        <title lang="pt">Top Fresh (Repetição)</title>
+    </programme>
+    <programme start="20260718173000 +0200" stop="20260718180000 +0200" channel="TVMINT">
+        <title lang="pt">Antena do Soldado</title>
+    </programme>
+    <programme start="20260718180000 +0200" stop="20260718190000 +0200" channel="TVMINT">
+        <title lang="pt">Chat com Sheila Ibraimo</title>
+    </programme>
+    <programme start="20260718190000 +0200" stop="20260718200000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Quelimane:  &quot;Ogumana&quot; ( Repetição)</title>
+    </programme>
+    <programme start="20260718200000 +0200" stop="20260718210000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal</title>
+    </programme>
+    <programme start="20260718210000 +0200" stop="20260718220000 +0200" channel="TVMINT">
+        <title lang="pt">Tvm Desporto</title>
+    </programme>
+    <programme start="20260718220000 +0200" stop="20260718230000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP: Inhambane em Diálogo ( Repetição)</title>
+    </programme>
+    <programme start="20260718230000 +0200" stop="20260718010000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração (Repetição)</title>
+    </programme>
+    <programme start="20260718010000 +0200" stop="20260718020000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde ( Repetição)</title>
+    </programme>
+    <programme start="20260718020000 +0200" stop="20260718030000 +0200" channel="TVMINT">
+        <title lang="pt">Chat Com Sheila Ibraimo ( Repetição)</title>
+    </programme>
+    <programme start="20260718030000 +0200" stop="20260718040000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal (Repetição)</title>
+    </programme>
+    <programme start="20260718040000 +0200" stop="20260718050000 +0200" channel="TVMINT">
+        <title lang="pt">TVM Desporto ( Repetição)</title>
+    </programme>
+    <programme start="20260718050000 +0200" stop="20260718060000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Quelimane:  &quot;Ogumana&quot; ( Repetição)</title>
+    </programme>
+    <programme start="20260718060000 +0200" stop="20260718080000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718080000 +0200" stop="20260718090000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde ( Repetição)</title>
+    </programme>
+    <programme start="20260718090000 +0200" stop="20260718100000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718100000 +0200" stop="20260718110000 +0200" channel="TVMINT">
+        <title lang="pt">Grande Entrevista: Atilio Morais - Cirurgião Cardiovascular e Toráxico ( Repetição)</title>
+    </programme>
+    <programme start="20260718110000 +0200" stop="20260718130000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração</title>
+    </programme>
+    <programme start="20260718130000 +0200" stop="20260718140000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal da Tarde</title>
+    </programme>
+    <programme start="20260718140000 +0200" stop="20260718150000 +0200" channel="TVMINT">
+        <title lang="pt">Fan Zone ( Repetição)</title>
+    </programme>
+    <programme start="20260718150000 +0200" stop="20260718160000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde</title>
+    </programme>
+    <programme start="20260718160000 +0200" stop="20260718170000 +0200" channel="TVMINT">
+        <title lang="pt">Agora Nós: União de Facto é um Casamento?  (Repetição)</title>
+    </programme>
+    <programme start="20260718170000 +0200" stop="20260718180000 +0200" channel="TVMINT">
+        <title lang="pt">Top Fresh (Repetição)</title>
+    </programme>
+    <programme start="20260718180000 +0200" stop="20260718190000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718190000 +0200" stop="20260718200000 +0200" channel="TVMINT">
+        <title lang="pt">Desporto: Estamos em Vilanculo</title>
+    </programme>
+    <programme start="20260718200000 +0200" stop="20260718210000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal</title>
+    </programme>
+    <programme start="20260718210000 +0200" stop="20260718220000 +0200" channel="TVMINT">
+        <title lang="pt">Grande Debate</title>
+    </programme>
+    <programme start="20260718220000 +0200" stop="20260718230000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal de Desporto</title>
+    </programme>
+    <programme start="20260718230000 +0200" stop="20260718010000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração (Repetição)</title>
+    </programme>
+    <programme start="20260718010000 +0200" stop="20260718020000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página ( Repetição)</title>
+    </programme>
+    <programme start="20260718020000 +0200" stop="20260718030000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde ( Repetição)</title>
+    </programme>
+    <programme start="20260718030000 +0200" stop="20260718040000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal (Repetição)</title>
+    </programme>
+    <programme start="20260718040000 +0200" stop="20260718050000 +0200" channel="TVMINT">
+        <title lang="pt">Grande Debate( Repetição)</title>
+    </programme>
+    <programme start="20260718050000 +0200" stop="20260718060000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Quelimane:  &quot;Ogumana&quot; ( Repetição)</title>
+    </programme>
+    <programme start="20260718060000 +0200" stop="20260718080000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718080000 +0200" stop="20260718090000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde ( Repetição)</title>
+    </programme>
+    <programme start="20260718090000 +0200" stop="20260718093000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718093000 +0200" stop="20260718100000 +0200" channel="TVMINT">
+        <title lang="pt">Asas : Mulher e o Direito ao Trabalho ( Repetição)</title>
+    </programme>
+    <programme start="20260718100000 +0200" stop="20260718110000 +0200" channel="TVMINT">
+        <title lang="pt">Grande Debate( Repetição)</title>
+    </programme>
+    <programme start="20260718110000 +0200" stop="20260718130000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração</title>
+    </programme>
+    <programme start="20260718130000 +0200" stop="20260718140000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal da Tarde</title>
+    </programme>
+    <programme start="20260718140000 +0200" stop="20260718150000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP: Inhambane em Diálogo</title>
+    </programme>
+    <programme start="20260718150000 +0200" stop="20260718160000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde</title>
+    </programme>
+    <programme start="20260718160000 +0200" stop="20260718170000 +0200" channel="TVMINT">
+        <title lang="pt">3600 Segundos ( Repetição)</title>
+    </programme>
+    <programme start="20260718170000 +0200" stop="20260718180000 +0200" channel="TVMINT">
+        <title lang="pt">Espectaculo Musical</title>
+    </programme>
+    <programme start="20260718180000 +0200" stop="20260718190000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718190000 +0200" stop="20260718200000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Quelimane:  &quot;Ogumana&quot; ( Repetição)</title>
+    </programme>
+    <programme start="20260718200000 +0200" stop="20260718210000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal</title>
+    </programme>
+    <programme start="20260718210000 +0200" stop="20260718220000 +0200" channel="TVMINT">
+        <title lang="pt">Janela Economica</title>
+    </programme>
+    <programme start="20260718220000 +0200" stop="20260718230000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal de Desporto</title>
+    </programme>
+    <programme start="20260718230000 +0200" stop="20260718010000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração (Repetição)</title>
+    </programme>
+    <programme start="20260718010000 +0200" stop="20260718020000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página ( Repetição)</title>
+    </programme>
+    <programme start="20260718020000 +0200" stop="20260718030000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde ( Repetição)</title>
+    </programme>
+    <programme start="20260718030000 +0200" stop="20260718040000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal (Repetição)</title>
+    </programme>
+    <programme start="20260718040000 +0200" stop="20260718060000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal de Desporto ( Repetição)</title>
+    </programme>
+    <programme start="20260718060000 +0200" stop="20260718080000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718080000 +0200" stop="20260718090000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde ( Repetição)</title>
+    </programme>
+    <programme start="20260718090000 +0200" stop="20260718093000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718093000 +0200" stop="20260718100000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Maputo Província: &quot;Conversas Daqui&quot;</title>
+    </programme>
+    <programme start="20260718100000 +0200" stop="20260718110000 +0200" channel="TVMINT">
+        <title lang="pt">Janela Economica ( Repetição)</title>
+    </programme>
+    <programme start="20260718110000 +0200" stop="20260718123000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração</title>
+    </programme>
+    <programme start="20260718123000 +0200" stop="20260718130000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718130000 +0200" stop="20260718140000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal da Tarde</title>
+    </programme>
+    <programme start="20260718140000 +0200" stop="20260718150000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal de Desporto ( Repetição)</title>
+    </programme>
+    <programme start="20260718150000 +0200" stop="20260718160000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde</title>
+    </programme>
+    <programme start="20260718160000 +0200" stop="20260718163000 +0200" channel="TVMINT">
+        <title lang="pt">Domingo Familiar ( Repetição)</title>
+    </programme>
+    <programme start="20260718163000 +0200" stop="20260718170000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique Digital ( Repetição)</title>
+    </programme>
+    <programme start="20260718170000 +0200" stop="20260718180000 +0200" channel="TVMINT">
+        <title lang="pt">Espectaculo Musical ( Repetição)</title>
+    </programme>
+    <programme start="20260718180000 +0200" stop="20260718190000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718190000 +0200" stop="20260718200000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Maputo Província: &quot;Conversas Daqui&quot;   ( Repeticao)</title>
+    </programme>
+    <programme start="20260718200000 +0200" stop="20260718210000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal</title>
+    </programme>
+    <programme start="20260718210000 +0200" stop="20260718220000 +0200" channel="TVMINT">
+        <title lang="pt">Quinta à Noite</title>
+    </programme>
+    <programme start="20260718220000 +0200" stop="20260718230000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal de Desporto</title>
+    </programme>
+    <programme start="20260718230000 +0200" stop="20260718010000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração (Repetição)</title>
+    </programme>
+    <programme start="20260718010000 +0200" stop="20260718020000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página ( Repetição)</title>
+    </programme>
+    <programme start="20260718020000 +0200" stop="20260718030000 +0200" channel="TVMINT">
+        <title lang="pt">Chat Com Sheila Ibraimo ( Repetição)</title>
+    </programme>
+    <programme start="20260718030000 +0200" stop="20260718040000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal (Repetição)</title>
+    </programme>
+    <programme start="20260718040000 +0200" stop="20260718043000 +0200" channel="TVMINT">
+        <title lang="pt">Hair Reality Show - Terra Prometida ( Repetição)</title>
+    </programme>
+    <programme start="20260718043000 +0200" stop="20260718060000 +0200" channel="TVMINT">
+        <title lang="pt">Quinta à Noite ( Repetição)</title>
+    </programme>
+    <programme start="20260718060000 +0200" stop="20260718080000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718080000 +0200" stop="20260718090000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde ( Repetição)</title>
+    </programme>
+    <programme start="20260718090000 +0200" stop="20260718093000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718093000 +0200" stop="20260718100000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Gaza: &quot;Gaza em Desenvolvimento&quot;</title>
+    </programme>
+    <programme start="20260718100000 +0200" stop="20260718110000 +0200" channel="TVMINT">
+        <title lang="pt">Quinta à Noite ( Repetição)</title>
+    </programme>
+    <programme start="20260718110000 +0200" stop="20260718130000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração</title>
+    </programme>
+    <programme start="20260718130000 +0200" stop="20260718140000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal da Tarde</title>
+    </programme>
+    <programme start="20260718140000 +0200" stop="20260718150000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal de Desporto ( Repetição)</title>
+    </programme>
+    <programme start="20260718150000 +0200" stop="20260718160000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde</title>
+    </programme>
+    <programme start="20260718160000 +0200" stop="20260718170000 +0200" channel="TVMINT">
+        <title lang="pt">Chat Com Sheila Ibraimo ( Repetição)</title>
+    </programme>
+    <programme start="20260718170000 +0200" stop="20260718180000 +0200" channel="TVMINT">
+        <title lang="pt">Top Fresh (Repetição)</title>
+    </programme>
+    <programme start="20260718180000 +0200" stop="20260718190000 +0200" channel="TVMINT">
+        <title lang="pt">Primeira Página</title>
+    </programme>
+    <programme start="20260718190000 +0200" stop="20260718200000 +0200" channel="TVMINT">
+        <title lang="pt">A Hora do CTP - Gaza: &quot;Gaza em Desenvolvimento&quot;  ( Repetição)</title>
+    </programme>
+    <programme start="20260718200000 +0200" stop="20260718210000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal</title>
+    </programme>
+    <programme start="20260718210000 +0200" stop="20260718220000 +0200" channel="TVMINT">
+        <title lang="pt">Opinando Com Salomão Moyana</title>
+    </programme>
+    <programme start="20260718220000 +0200" stop="20260718234500 +0200" channel="TVMINT">
+        <title lang="pt">Jornal de Desporto</title>
+    </programme>
+    <programme start="20260718234500 +0200" stop="20260718001500 +0200" channel="TVMINT">
+        <title lang="pt">Conversas ao Sul</title>
+    </programme>
+    <programme start="20260718001500 +0200" stop="20260718021500 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração (Repetição)</title>
+    </programme>
+    <programme start="20260718021500 +0200" stop="20260718030000 +0200" channel="TVMINT">
+        <title lang="pt">Juntos à Tarde ( Repetição)</title>
+    </programme>
+    <programme start="20260718030000 +0200" stop="20260718043000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal (Repetição)</title>
+    </programme>
+    <programme start="20260718043000 +0200" stop="20260718060000 +0200" channel="TVMINT">
+        <title lang="pt">Opinando Com Salomão Moyana ( Repetição)</title>
+    </programme>
+    <programme start="20260718060000 +0200" stop="20260718070000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718070000 +0200" stop="20260718090000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718090000 +0200" stop="20260718093000 +0200" channel="TVMINT">
+        <title lang="pt">Crianças Contra o Vírus</title>
+    </programme>
+    <programme start="20260718093000 +0200" stop="20260718110000 +0200" channel="TVMINT">
+        <title lang="pt">Conversas Em Casa</title>
+    </programme>
+    <programme start="20260718110000 +0200" stop="20260718120000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique no Coração (Repetição)</title>
+    </programme>
+    <programme start="20260718120000 +0200" stop="20260718130000 +0200" channel="TVMINT">
+        <title lang="pt">Especial Desporto</title>
+    </programme>
+    <programme start="20260718130000 +0200" stop="20260718150000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal da Tarde</title>
+    </programme>
+    <programme start="20260718150000 +0200" stop="20260718160000 +0200" channel="TVMINT">
+        <title lang="pt">3600 Segundos</title>
+    </programme>
+    <programme start="20260718160000 +0200" stop="20260718170000 +0200" channel="TVMINT">
+        <title lang="pt">Tenda da Justiça</title>
+    </programme>
+    <programme start="20260718170000 +0200" stop="20260718183000 +0200" channel="TVMINT">
+        <title lang="pt">Pontos de Memória: Origem de Mahubo</title>
+    </programme>
+    <programme start="20260718183000 +0200" stop="20260718190000 +0200" channel="TVMINT">
+        <title lang="pt">Agora Nós</title>
+    </programme>
+    <programme start="20260718190000 +0200" stop="20260718200000 +0200" channel="TVMINT">
+        <title lang="pt">Tenda da Justiça ( Repetição)</title>
+    </programme>
+    <programme start="20260718200000 +0200" stop="20260718210000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal</title>
+    </programme>
+    <programme start="20260718210000 +0200" stop="20260718223000 +0200" channel="TVMINT">
+        <title lang="pt">Vibrações</title>
+    </programme>
+    <programme start="20260718223000 +0200" stop="20260718230000 +0200" channel="TVMINT">
+        <title lang="pt">Asas: Expropriação de Bens</title>
+    </programme>
+    <programme start="20260718230000 +0200" stop="20260718010000 +0200" channel="TVMINT">
+        <title lang="pt">Mitos e Tabús: Em Conversa com Filipe Arone</title>
+    </programme>
+    <programme start="20260718010000 +0200" stop="20260718020000 +0200" channel="TVMINT">
+        <title lang="pt">Janela de Economia ( Repetição)</title>
+    </programme>
+    <programme start="20260718020000 +0200" stop="20260718030000 +0200" channel="TVMINT">
+        <title lang="pt">Especial Desporto ( Repetição)</title>
+    </programme>
+    <programme start="20260718030000 +0200" stop="20260718060000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal (Repetição)</title>
+    </programme>
+    <programme start="20260718060000 +0200" stop="20260718070000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718070000 +0200" stop="20260718100000 +0200" channel="TVMINT">
+        <title lang="pt">Bom Dia Moçambique</title>
+    </programme>
+    <programme start="20260718100000 +0200" stop="20260718110000 +0200" channel="TVMINT">
+        <title lang="pt">Grande Entrevista: Atilio Morais - Cirurgião Cardiovascular e Toráxico ( Repetição)</title>
+    </programme>
+    <programme start="20260718110000 +0200" stop="20260718120000 +0200" channel="TVMINT">
+        <title lang="pt">3600 Segundos ( Repetição)</title>
+    </programme>
+    <programme start="20260718120000 +0200" stop="20260718130000 +0200" channel="TVMINT">
+        <title lang="pt">Análise Global</title>
+    </programme>
+    <programme start="20260718130000 +0200" stop="20260718140000 +0200" channel="TVMINT">
+        <title lang="pt">Jornal da Tarde</title>
+    </programme>
+    <programme start="20260718140000 +0200" stop="20260718150000 +0200" channel="TVMINT">
+        <title lang="pt">Top Fresh (Repetição)</title>
+    </programme>
+    <programme start="20260718150000 +0200" stop="20260718153000 +0200" channel="TVMINT">
+        <title lang="pt">Janela de Economia ( Repetição)</title>
+    </programme>
+    <programme start="20260718153000 +0200" stop="20260718160000 +0200" channel="TVMINT">
+        <title lang="pt">Grande Entrevista: Atilio Morais - Cirurgião Cardiovascular e Toráxico ( Repetição)</title>
+    </programme>
+    <programme start="20260718160000 +0200" stop="20260718163000 +0200" channel="TVMINT">
+        <title lang="pt">Moçambique Digital</title>
+    </programme>
+    <programme start="20260718163000 +0200" stop="20260718170000 +0200" channel="TVMINT">
+        <title lang="pt">Vibrações ( Repetição)</title>
+    </programme>
+    <programme start="20260718170000 +0200" stop="20260718173000 +0200" channel="TVMINT">
+        <title lang="pt">Top Fresh (Repetição)</title>
+    </programme>
+    <programme start="20260718173000 +0200" stop="20260718183000 +0200" channel="TVMINT">
+        <title lang="pt">Antena do Soldado</title>
+    </programme>
+    <programme start="20260718183000 +0200" stop="20260718193000 +0200" channel="TVMINT">
+        <title lang="pt">Conquitas</title>
+    </programme>
+    <programme start="20260718193000 +0200" stop="20260718200000 +0200" channel="TVMINT">
+        <title lang="pt">Baia do Indico</title>
+    </programme>
+    <programme start="20260718200000 +0200" stop="20260718213000 +0200" channel="TVMINT">
+        <title lang="pt">Telejornal</title>
+    </programme>
+    <programme start="20260718213000 +0200" stop="20260718223000 +0200" channel="TVMINT">
+        <title lang="pt">Grande Entrevista: Eneas Comiche / Presidente do CMCM</title>
+    </programme>
+    <programme start="20260718223000 +0200" stop="20260718233000 +0200" channel="TVMINT">
+        <title lang="pt">Inspirações</title>
+    </programme>
+    <programme start="20260718233000 +0200" stop="20260718Fonte00 +0200" channel="TVMINT">
+        <title lang="pt">Domingo Familiar</title>
+    </programme>
+    <programme start="20260718Fonte00 +0200" stop="20260718Mínima00 +0200" channel="TVMINT">
+        <title lang="pt">Standard Bank, 17/07/ 2026</title>
+    </programme>
+    <programme start="20260718Mínima00 +0200" stop="2026071823590000 +0200" channel="TVMINT">
+        <title lang="pt">13ºC</title>
+    </programme>
 </tv>

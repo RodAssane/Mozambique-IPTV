@@ -3,35 +3,44 @@ from xml.dom import minidom
 from datetime import datetime
 
 
-def criar_xml(programas):
+def criar_xml(canais):
 
     tv = Element("tv")
 
-    channel = SubElement(tv, "channel", id="TVM")
-    display = SubElement(channel, "display-name")
-    display.text = "TVM"
-
     hoje = datetime.now().strftime("%Y%m%d")
 
-    for i, programa in enumerate(programas):
+    for canal_id, programas in canais.items():
 
-        hora_inicio = programa["hora"].replace(":", "")
+        channel = SubElement(tv, "channel", id=canal_id)
 
-        if i < len(programas) - 1:
-            hora_fim = programas[i + 1]["hora"].replace(":", "")
-        else:
-            hora_fim = "235900"
+        display = SubElement(channel, "display-name")
 
-        p = SubElement(
-            tv,
-            "programme",
-            start=f"{hoje}{hora_inicio}00 +0200",
-            stop=f"{hoje}{hora_fim}00 +0200",
-            channel="TVM"
-        )
+        nomes = {
+            "TVM": "TVM",
+            "TVMINT": "TVM Internacional"
+        }
 
-        titulo = SubElement(p, "title", lang="pt")
-        titulo.text = programa["titulo"]
+        display.text = nomes.get(canal_id, canal_id)
+
+        for i, programa in enumerate(programas):
+
+            hora_inicio = programa["hora"].replace(":", "")
+
+            if i < len(programas) - 1:
+                hora_fim = programas[i + 1]["hora"].replace(":", "")
+            else:
+                hora_fim = "235900"
+
+            p = SubElement(
+                tv,
+                "programme",
+                start=f"{hoje}{hora_inicio}00 +0200",
+                stop=f"{hoje}{hora_fim}00 +0200",
+                channel=canal_id
+            )
+
+            titulo = SubElement(p, "title", lang="pt")
+            titulo.text = programa["titulo"]
 
     xml = minidom.parseString(
         tostring(tv)
@@ -42,7 +51,6 @@ def criar_xml(programas):
         "w",
         encoding="utf-8"
     ) as f:
-
         f.write(xml)
 
     print("XMLTV criado.")
