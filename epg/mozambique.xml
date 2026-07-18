@@ -1,43 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<tv generator-info-name="Mozambique-IPTV"
+<tv
+    source-info-name="Mozambique IPTV"
+    source-info-url="https://github.com/RodAssane/Mozambique-IPTV"
+    generator-info-name="Mozambique-IPTV EPG Generator"
     generator-info-url="https://github.com/RodAssane/Mozambique-IPTV">
 
-    <!-- ========================= -->
-    <!-- CANAIS DE TELEVISÃO -->
-    <!-- ========================= -->
-
     <channel id="TVM">
-        <display-name>TVM</display-name>
+        <display-name lang="pt">TVM</display-name>
         <icon src="https://rodassane.github.io/Mozambique-IPTV/logos/tvm.png"/>
     </channel>
 
     <channel id="TVMINT">
-        <display-name>TVM Internacional</display-name>
+        <display-name lang="pt">TVM Internacional</display-name>
         <icon src="https://rodassane.github.io/Mozambique-IPTV/logos/tvminternacional.png"/>
     </channel>
 
-    <!-- ========================= -->
-    <!-- RÁDIO MOÇAMBIQUE -->
-    <!-- ========================= -->
-
     <channel id="ANTENANACIONAL">
-        <display-name>Antena Nacional</display-name>
+        <display-name lang="pt">Antena Nacional</display-name>
         <icon src="https://rodassane.github.io/Mozambique-IPTV/logos/rm.png"/>
     </channel>
 
     <channel id="RMDESPORTO">
-        <display-name>RM Desporto</display-name>
+        <display-name lang="pt">RM Desporto</display-name>
         <icon src="https://rodassane.github.io/Mozambique-IPTV/logos/rm.png"/>
     </channel>
 
     <channel id="RMCIDADEMAPUTO">
-        <display-name>RM Cidade Maputo</display-name>
+        <display-name lang="pt">RM Cidade Maputo</display-name>
         <icon src="https://rodassane.github.io/Mozambique-IPTV/logos/rm.png"/>
     </channel>
 
     <channel id="RMCIDADEBEIRA">
-        <display-name>RM Cidade Beira</display-name>
+        <display-name lang="pt">RM Cidade Beira</display-name>
         <icon src="https://rodassane.github.io/Mozambique-IPTV/logos/rm.png"/>
     </channel>
 
